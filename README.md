@@ -1,7 +1,5 @@
 # Bike Buyers — Executive Dashboard (Excel, Power Query)
 
-
-
 ![Dashboard demo](img/demo.gif)
 
 
@@ -41,4 +39,5 @@ If the dataset license restricts redistribution, download it from Kaggle and pla
 ---
 
 ![Dashboard preview](img/dashboard.png)
+
 
