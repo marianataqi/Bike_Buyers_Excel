@@ -1,6 +1,9 @@
 # Bike Buyers — Executive Dashboard (Excel, Power Query)
 
+
+
 ![Dashboard demo](img/demo.gif)
+
 
 **Goal.** Show professional Excel analytics: automated import (From Folder), feature engineering in Power Query, and an interactive executive dashboard.
 
@@ -38,3 +41,4 @@ If the dataset license restricts redistribution, download it from Kaggle and pla
 ---
 
 ![Dashboard preview](img/dashboard.png)
+
