@@ -37,7 +37,7 @@ If the dataset license restricts redistribution, download it from Kaggle and pla
 - [One-page PDF](BikeBuyer_Dashboard.pdf)
 
 ---
-
 ![Dashboard preview](img/dashboard.png)
+
 
 
